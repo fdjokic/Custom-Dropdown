@@ -8,7 +8,7 @@
   border-color: #999 transparent transparent;
   border-style: solid;
   border-width: 5px 5px 0;
-  content: " ";
+  content: ' ';
   display: block;
   height: 0;
   margin-top: 0.3rem;
@@ -23,7 +23,7 @@
   border-width: 0 5px 5px;
 }
 
-.dropdown .selected-value {
+.dropdown .selected-value input {
   line-height: 1.5;
   font-size: 1rem;
   background-color: #fff;
